@@ -1,3 +1,8 @@
+# PLEASE DON'T USE THIS SOFTWARE
+
+## *P2Pool does not scale and the Verium block algorithm is too CPU intensive.*
+
+
 Requirements:
 -------------------------
 Generic:
